@@ -1,5 +1,5 @@
 {
-  "required_api_version": "^2.3.1",
+  "required_api_version": "^2.0.0",
   "manifest_version": "2",
   "name": "Windows switcher",
   "description": "Search the open windows and quickly switch to it. (See README for installation dependencies)",
